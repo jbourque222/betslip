@@ -29,5 +29,5 @@ let data = [
     subitems: ['To be updated']
   }, 
 ];
-alert(data2)
+alert(data)
 
