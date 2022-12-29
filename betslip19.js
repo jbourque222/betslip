@@ -1,7 +1,7 @@
 let data = [
 {
     item: 'MLB',
-    subitems: ['To be updated']
+    subitems: ['Angels', 'Astros', 'Athletics', 'Blue Jays', 'Braves', 'Brewers', 'Cardinals', 'Cubs', 'DiamondbacksD. Backs', 'Dodgers', 'Giants', 'Guardians', 'Mariners', 'Marlins', 'Mets', 'Nationals', 'Orioles', 'Padres', 'Phillies', 'Pirates', 'Rangers', 'Rays', 'Red Sox', 'Reds', 'Rockies', 'Royals', 'Tigers', 'Twins', 'White Sox', 'Yankees']
   },
 {
     item: 'NBA',
