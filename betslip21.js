@@ -25,7 +25,7 @@ let data = [
   },  
   {
     item: 'Soccer (select league below) --',
-    subitems: ['To be updated']
+    subitems: []
   }, 
   {
     item: 'EPL',
