@@ -48,7 +48,7 @@ window.onload = function() {
   }
 }
 </script>  
-<body>
+
 
 <h1>Cascading Dropdown Example</h1>
 
@@ -65,12 +65,3 @@ window.onload = function() {
   <input type="submit" value="Submit">  
 </form>
 
-
-<div class="form-block-5 w-form">
-	<form id="wf-form-Bet-Slip" name="wf-form-Bet-Slip" data-name="Bet Slip" action="www.google.com" method="post" class="form-12">
-  <label for="Test" class="field-label-42">Test</label>
-  <select id="Test" name="Test" data-name="Test" required="", class="w-select">
-  	<option value="1">1</option>
-    <option value="2">2</option>
-  </select>
-  </form>
