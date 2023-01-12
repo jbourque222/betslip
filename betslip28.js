@@ -744,3 +744,31 @@ let sportlist = [
     "has_outrights": false
   }
 ]
+
+
+<style>
+    #bettable {
+        margin: 0 auto;
+        border: solid black;
+        width: 100%;
+        border-collapse: collapse;
+    }
+    #bettable th {
+        width: 25%;
+    }
+    .homerow {
+        border-top: solid black 1px;
+        background-color: white;
+    }
+    .awayrow {
+        background-color: transparent;
+    }
+    .drawrow {
+        background-color: white;
+    }
+    td {
+      display: table-cell;
+      text-align: center;
+      vertical-align: middle;
+    }
+</style>
