@@ -32,7 +32,7 @@ let data = [
     subitems: ['Almería', 'Athletic Club', 'Atlético Madrid', 'Barcelona', 'Betis', 'Cádiz', 'Celta Vigo', 'Elche', 'Espanyol', 'Getafe', 'Girona', 'Mallorca', 'Osasuna', 'Rayo Vallecano', 'Real Madrid', 'Real Sociedad', 'Sevilla', 'Valencia', 'Valladolid', 'Villarreal']
   }, 
   {
-    item: 'Other --',
+    item: 'Prop Bet / Other',
     subitems: []
   }, 
 ];
